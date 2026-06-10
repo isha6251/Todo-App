@@ -1,4 +1,5 @@
-Todo App | React.js, JavaScript, HTML, CSS
+Todo App | React.js, JavaScript, Tailwind css, LocalStorage.
+
 Live: https://my-todo-app85.netlify.app
 
 1. Built a responsive task management application with add, edit, delete, and mark-as-complete functionalities.
