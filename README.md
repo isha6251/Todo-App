@@ -1,5 +1,5 @@
 Todo App | React.js, JavaScript, HTML, CSS
-🔗 Live Demo: my-todo-app85.netlify.app
+Live: https://my-todo-app85.netlify.app
 
 1. Built a responsive task management application with add, edit, delete, and mark-as-complete functionalities.
 2. Implemented state management using React hooks for seamless user interactions.
